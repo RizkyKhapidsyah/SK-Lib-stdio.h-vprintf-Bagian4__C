@@ -1,0 +1,5 @@
+﻿  Source.c
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-vprintf-Bagian4__C\SK-Lib-stdio.h-vprintf-Bagian4__C\Source.c(25,48): error C2057: expected constant expression
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-vprintf-Bagian4__C\SK-Lib-stdio.h-vprintf-Bagian4__C\Source.c(25,48): error C2466: cannot allocate an array of constant size 0
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-vprintf-Bagian4__C\SK-Lib-stdio.h-vprintf-Bagian4__C\Source.c(25,49): error C2133: 'buf': unknown size
+D:\Documents\#LATIHAN\Pemrograman\C\#Download\SK-Lib-stdio.h-vprintf-Bagian4__C\SK-Lib-stdio.h-vprintf-Bagian4__C\Source.c(27,30): warning C4034: sizeof returns 0
